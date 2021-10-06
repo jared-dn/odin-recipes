@@ -1,0 +1,1 @@
+This is the intro to a recipes project utilizing html, command terminal, git and other stuff I don't really understand.
